@@ -1,0 +1,3 @@
+[submodule "src/mrs_tasks"]
+	path = src/mrs_tasks
+	url = git@github.com:mzembron/mrs_tasks.git
