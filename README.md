@@ -1,4 +1,4 @@
-# Workspace for mrs_main repo
+# Workspace for mrs_tasks repo
 ---
 
 ---
