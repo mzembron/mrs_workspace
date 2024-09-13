@@ -42,7 +42,8 @@
 				"twxs.cmake",
 				"yzhang.markdown-all-in-one",
 				"zachflower.uncrustify",
-				"GitHub.copilot"
+				"GitHub.copilot",
+				"eamodio.gitlens"
 			]
 		}
 	}
