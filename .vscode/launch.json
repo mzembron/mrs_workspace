@@ -66,6 +66,15 @@
       "preLaunchTask": "build",
       "target": "${workspaceFolder}/install/${input:package}/share/${input:package}/launch/${input:ros_launch}",
     },
+        // New configuration to debug agent_entrypoint.py with arguments
+    {
+      "name": "Python: Debug agent_entrypoint.py",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/mrs_tasks/mrs_main/mrs_main/agent_entrypoint.py",
+      "console": "integratedTerminal",
+      "args": ["0.7", "0.7"]
+    }
   ],
   "inputs": [
     {
