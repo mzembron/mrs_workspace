@@ -66,7 +66,7 @@
       "preLaunchTask": "build",
       "target": "${workspaceFolder}/install/${input:package}/share/${input:package}/launch/${input:ros_launch}",
     },
-        // New configuration to debug agent_entrypoint.py with arguments
+        // Configuration to debug agent_entrypoint.py with arguments
     {
       "name": "Python: Debug agent_entrypoint.py",
       "type": "python",
