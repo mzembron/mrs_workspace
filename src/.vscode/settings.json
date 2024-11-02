@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/workspaces/mrs_workspace/build/mrs_main",
+        "/workspaces/mrs_workspace/install/lib/python3.10/site-packages",
+        "/workspaces/mrs_workspace/install/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/workspaces/mrs_workspace/build/mrs_main",
+        "/workspaces/mrs_workspace/install/lib/python3.10/site-packages",
+        "/workspaces/mrs_workspace/install/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages"
+    ]
+}
