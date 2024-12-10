@@ -43,7 +43,8 @@
 				"yzhang.markdown-all-in-one",
 				"zachflower.uncrustify",
 				"GitHub.copilot",
-				"eamodio.gitlens"
+				"eamodio.gitlens",
+				"Gruntfuggly.todo-tree"
 			]
 		}
 	}
