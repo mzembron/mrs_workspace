@@ -80,5 +80,10 @@
         ".devcontainer/devcontainer.json"
     ],
     "ament-task-provider.envSetup": "source /opt/ros/humble/setup.bash",
+    "python.testing.pytestArgs": [
+        "src"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
     "terminal.integrated.cwd": "/workspaces/mrs_workspace/src/mrs_tasks/mrs_main"
 }
