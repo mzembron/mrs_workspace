@@ -73,7 +73,7 @@
       "request": "launch",
       "program": "${workspaceFolder}/src/mrs_tasks/mrs_main/mrs_main/agent_entrypoint.py",
       "console": "integratedTerminal",
-      "args": ["0.7", "0.7"]
+      "args": ["0"]
     }
   ],
   "inputs": [
